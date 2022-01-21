@@ -1,4 +1,10 @@
 hi, hello :)
 This is my first file!
-Add new line, dude!
+Add new line, dude!!!
 Add yet another line!
+
+writing some code() {
+ I++
+ //y does not work?
+ return null pointer;
+}
